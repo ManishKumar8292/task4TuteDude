@@ -26,3 +26,6 @@ body{
     cursor: pointer;
     width: 100%;
 }
+.imageSection .btn:hover{
+  background: linear-gradient(90deg, rgba(237,221,83,1), rgba(87,199,133,1), rgba(42,155,144,1));
+}
