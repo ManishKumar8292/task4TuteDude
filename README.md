@@ -1,4 +1,4 @@
-# Task 4 – Image Section with Button
+# Task 4 – Units and Box Sizing Concept
 
 ## Description
 
